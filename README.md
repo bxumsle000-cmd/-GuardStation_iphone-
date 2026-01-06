@@ -121,7 +121,7 @@ jupyter notebook GS_iphone_update.ipynb
 
 ## 未來發展方向
 
-### 📊 下架商品分析系統（開發中）
+### 下架商品分析系統（開發中）
 
 隨著資料累積時間增長，系統將能夠進行更深入的市場動態分析：
 
@@ -142,3 +142,4 @@ jupyter notebook GS_iphone_update.ipynb
 4. **時間因素**：上架月份、在庫天數、季節性影響
 
 待資料累積充足後，這些分析將整合至 Tableau 儀表板，提供即時的市場洞察與預測功能。
+
