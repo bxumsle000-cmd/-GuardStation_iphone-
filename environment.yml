@@ -1,0 +1,11 @@
+name: iphone
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.3.3
+  - pip
+  - pip:
+    - selenium==4.39.0
+    - webdriver-manager==4.0.2
